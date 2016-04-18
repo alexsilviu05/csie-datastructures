@@ -1,0 +1,6 @@
+1,Popescu Ioan,1234567890123,zi,1.70
+2,Popescu Gigel,1234512345123,zi,1.65
+3,Acatrinei Roxana,2234567890123,zi,1.60
+4,Vasile Ioana,2334567890123,id,1.65
+5,Salvamaru Gica,4123456789012,id,1.90
+6,Soare Andrei, 5123456789012,zi,1.65
