@@ -1,0 +1,7 @@
+4,John Smith,540.5,2,450
+2,Thomas Blue,349.9,7,350
+6,Kevin Spacey,860,14,650
+1,George Trump,600,4,500
+3,Tony Stark,550,2,430
+7,Christian Storm,600,4,590
+8,Captain America,999,9,999
