@@ -1,0 +1,7 @@
+4,Tony Stark,5,65.3,1,2
+2,Thomas Edison,3,21.5,2,3
+6,Captain America,6,85.3,2,4
+1,Kevin Maslow,2,15.5,3,1
+3,Harvey Space,9,840.5,1,2
+5,Lux Teddy,4,54.3,1,1
+7,Theo Kenedy,2,43.3,2,3
