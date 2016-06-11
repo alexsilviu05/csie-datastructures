@@ -148,6 +148,5 @@ void main()
 
 	Reservation temp = extractElement(&minHeap);
 
-
 	printf("\n");
 }

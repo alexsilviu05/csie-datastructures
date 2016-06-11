@@ -55,6 +55,28 @@ Stack* push(Stack* stack, Reservation info)
 	return newNode;
 }
 
+void filtrationRecap(Heap queue, int index)
+{
+	int N = index;
+	int left = 2 * N + 1;
+	int right = 2 * N + 2;
+
+	if (left < queue.dim && queue.res[N] < queue.res[left])
+		N = left;
+	if (right < queue.dim && queue.res[N] < queue.res[right])
+		N = right;
+
+	if (N != index)
+	{
+		Reservation temp = queue.res[index];
+
+		queue.res[index] = queue.res[N];
+		queue.res[N] = temp;
+
+		filtrationRecap(queue, N);
+	}
+}
+
 void filtration(Heap queue, int index)
 {
 	int N = index;
