@@ -1,0 +1,5 @@
+350,depozit1,300,1,depozit2;depozit3
+500,depozit2,250,2,depozit1;depozit3;depozit4
+600,depozit3,550,3,depozit1;depozit2;depozit4;depozit5
+200,depozit4,200,4,depozit2;depozit3;depozit5
+100,depozit5,100,5,depozit3;depozit4
